@@ -1,0 +1,14 @@
+# NSI .gitignore.
+
+# Python.
+/venv
+/.venv
+
+*.pyc
+*/__pycache__
+
+
+# Documentation.
+!README.md
+!README
+
