@@ -1,11 +1,11 @@
 # NSI .gitignore.
 
 # Python.
-/venv
-/.venv
+*venv
+*.venv
 
 *.pyc
-*/__pycache__
+*__pycache__
 
 
 # Documentation.

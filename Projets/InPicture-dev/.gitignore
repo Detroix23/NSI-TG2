@@ -1,0 +1,19 @@
+
+# Images dir.
+/data/coded/*
+/data/origin/*
+/data/decoded/*
+
+# Virtual environemment.
+/venv/
+/.venv/
+
+# Python cache
+**/__pycache__
+*.pyc
+
+# Dist
+/dist/
+
+# Doc
+!README.md
