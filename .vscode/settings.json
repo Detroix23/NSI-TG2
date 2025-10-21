@@ -1,0 +1,15 @@
+{
+	"python.analysis.generateWithTypeAnnotation": true,
+	"python.analysis.inlayHints.functionReturnTypes": true,
+	"python.analysis.inlayHints.variableTypes": true,
+	"python.analysis.typeCheckingMode": "standard",
+    "python.analysis.typeEvaluation.strictDictionaryInference": true,
+	"python.analysis.typeEvaluation.strictListInference": true,
+	"python.analysis.typeEvaluation.strictSetInference": true,
+	"python.missingPackage.severity": "Information",
+
+
+	"editor.tabSize": 4,
+	"editor.detectIndentation": false,
+	"editor.insertSpaces": true
+}
