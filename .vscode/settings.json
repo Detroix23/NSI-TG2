@@ -11,5 +11,10 @@
 
 	"editor.tabSize": 4,
 	"editor.detectIndentation": false,
-	"editor.insertSpaces": true
+    "editor.insertSpaces": true,
+    "cSpell.language": "en, fr",
+    "cSpell.words": [
+        "arrivee",
+        "dijkstra"
+    ]
 }
