@@ -1,3 +1,6 @@
 [submodule "CTF_PTHD"]
 	path = CTF_PTHD
 	url = https://github.com/Detroix23/CTF_PTHD.git
+[submodule "Trophee/Trophees"]
+	path = Trophee/Trophees
+	url = https://gitlab.com/nsi_trophees2026/trophees.git
