@@ -1,5 +1,5 @@
 """
-# NSI Structures de données linéaires: parcours de graphes.
+# NSI Structures: parcours de graphes.
 NSI/1_StructureDonne/GraphesParcours de graphes/ParcoursGraphes_Algorithmes.py
 """
 
