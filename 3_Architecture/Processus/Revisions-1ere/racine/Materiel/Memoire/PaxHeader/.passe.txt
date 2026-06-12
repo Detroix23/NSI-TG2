@@ -1,0 +1,2 @@
+44 path=racine/Matériel/Memoire/.passe.txt
+27 mtime=1582655363.834668

@@ -1,0 +1,21 @@
+texte = 'Allons enfin ! Le nom du chien de Tintin est Milou et pas Rintintin !'
+motif = 'tintin'
+
+1) Décalage de 6 (longueur du motif) car le 's' n'est pas dans le motif
+2) Décalage de 4 car il y a 2 correspondances, 'n' et 'i' (4 = 6 - 2), il faut donc aligner le 'n' avec le '!'
+3) Décalage de 6 (longueur du motif) car le 'L' n'est pas dans le motif
+4) Décalage de 6 (longueur du motif) car le caractère ' ' n'est pas dans le motif
+5) Décalage de 1 car le 'i' est dans le motif et il se situe à une distance de 1 caractère de la fin du motif. 
+6) Décalage de 6 (longueur du motif) car le 'e' n'est pas dans le motif
+7) Décalage de 6 (longueur du motif) car le 'T' n'est pas dans le motif
+8) Décalage de 6 (longueur du motif) car le caractère ' ' n'est pas dans le motif
+9) Décalage de 1 car le 'i' est dans le motif et il se situe à une distance de 1 caractère de la fin du motif. 
+10) Décalage de 6 (longueur du motif) car le caractère 'l' n'est pas dans le motif
+11) Décalage de 6 (longueur du motif) car le caractère ' ' n'est pas dans le motif
+12) Décalage de 1 car le 'i' est dans le motif et il se situe à une distance de 1 caractère de la fin du motif. 
+13) Décalage de 4 car il y a 2 correspondances, 'n' et 'i' (4 = 6 - 2), il faut donc aligner le 'n' avec le deuxième 'i' de Rintintin
+15) Décalage de 2 car le 't' est dans le motif et il se situe à une distance de 2 caractères de la fin du motif. 
+Détection du motif
+16) On ne peut plus 
+
+ 
